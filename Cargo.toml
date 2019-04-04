@@ -1,0 +1,9 @@
+[package]
+name = "conn-cli"
+version = "0.1.0"
+authors = ["Tom Warner <tomwamt@gmail.com>"]
+
+[dependencies]
+clap = "2.32"
+postgres = "0.15"
+rpassword = "3.0"
